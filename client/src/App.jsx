@@ -33,6 +33,7 @@ function App() {
             <option value="pl">Polish</option>
             <option value="es">Spanish</option>
             <option value="tr">Turkish</option>
+            <option value="fr">French</option>
           </select>
           <input
             placeholder="Translate"
